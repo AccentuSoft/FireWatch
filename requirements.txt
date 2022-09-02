@@ -1,0 +1,3 @@
+playwright
+lz4
+tldextract
