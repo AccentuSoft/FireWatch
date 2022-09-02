@@ -4,7 +4,7 @@ This is a script that records the websites visited in a Firefox browsing session
 assuming that history recording is enabled. This tool was created to show an example
 of how a python script can be used to record Firefox sessions. The associated
 blog post, which explains how this tool works, can be found here:
-[Link to blog post](https://accentusoft.com/uncategorized/recording-browser-sessions-with-100-lines-of-python/).
+[Link to blog post](https://accentusoft.com/tutorials/recording-browser-sessions-with-100-lines-of-python/).
 
 The names of sites visited are recorded and deduplicated.
 Every unique webpage visited is saved to disk, and a full-page, timestamped
